@@ -1,4 +1,4 @@
-#'@negroni
+#'@title negroni
 #'
 #'@description Uhh, sehr hip. Aber auch sehr lecker und geeignet für einen stilvollen Abend, stilvolle Gespräche und das bisschen Philosophie.
 #'

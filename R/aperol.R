@@ -1,4 +1,4 @@
-#'@aperol
+#'@title aperol
 #'
 #'@description Ein simples Rezept für Aperol Spritz mitten in R. Ist es nicht wunderbar.
 #'

@@ -1,4 +1,4 @@
-#'@wassollichtun
+#'@title wassollichtun
 #'
 #'@description Manchmal gibt es diese Zeiten am Tag, da muss man einfach R fragen...
 #'

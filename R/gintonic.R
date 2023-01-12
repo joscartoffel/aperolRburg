@@ -1,4 +1,4 @@
-#'@gintonic
+#'@title gintonic
 #'
 #'@description Ein simples Rezept für Gin Tonic mitten in R.
 #'

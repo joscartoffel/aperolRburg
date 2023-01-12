@@ -1,4 +1,4 @@
-#'@kaffee
+#'@title kaffee
 #'
 #'@description Manchmal braucht es einen kleinen Anschub im PAM-Alltag.
 #'
