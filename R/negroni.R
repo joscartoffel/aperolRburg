@@ -1,12 +1,12 @@
-#'@title negroni
+#' @title negroni
 #'
-#'@description Uhh, sehr hip. Aber auch sehr lecker und geeignet für einen stilvollen Abend, stilvolle Gespräche und das bisschen Philosophie.
+#' @description Uhh, sehr hip. Aber auch sehr lecker und geeignet für einen stilvollen Abend, stilvolle Gespräche und das bisschen Philosophie.
 #'
-#'@param
+#' @param
 #'
-#'@return Hast du die Idee etwa von Instagram oder bist du alleine drauf gekommen..?
+#' @return Hast du die Idee etwa von Instagram oder bist du alleine drauf gekommen..?
 #'
-#'@export
+#' @export
 #'
 #'
 

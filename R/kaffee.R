@@ -1,12 +1,12 @@
-#'@title kaffee
+#' @title kaffee
 #'
-#'@description Manchmal braucht es einen kleinen Anschub im PAM-Alltag.
+#' @description Manchmal braucht es einen kleinen Anschub im PAM-Alltag.
 #'
-#'@param
+#' @param
 #'
-#'@return Wie Du durch den PAM-Tag kommst. Also vielleicht.
+#' @return Wie Du durch den PAM-Tag kommst. Also vielleicht.
 #'
-#'@export
+#' @export
 #'
 #'
 

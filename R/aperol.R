@@ -1,12 +1,12 @@
-#'@title aperol
+#' @title aperol
 #'
-#'@description Ein simples Rezept für Aperol Spritz mitten in R. Ist es nicht wunderbar.
+#' @description Ein simples Rezept für Aperol Spritz mitten in R. Ist es nicht wunderbar.
 #'
-#'@param quant Wie viele sollen es werden?
+#' @param quant Wie viele sollen es werden?
 #'
-#'@return Wie Du einen Aperol Spritz machst.
+#' @return Wie Du einen Aperol Spritz machst.
 #'
-#'@export
+#' @export
 #'
 #'
 

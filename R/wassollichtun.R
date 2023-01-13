@@ -1,12 +1,12 @@
-#'@title wassollichtun
+#' @title wassollichtun
 #'
-#'@description Manchmal gibt es diese Zeiten am Tag, da muss man einfach R fragen...
+#' @description Manchmal gibt es diese Zeiten am Tag, da muss man einfach R fragen...
 #'
-#'@param
+#' @param
 #'
-#'@return Ist nur ein Vorschlag,
+#' @return Ist nur ein Vorschla, make up your own mind ;)
 #'
-#'@export
+#' @export
 #'
 #'
 

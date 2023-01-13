@@ -1,12 +1,12 @@
-#'@title gintonic
+#' @title gintonic
 #'
-#'@description Ein simples Rezept für Gin Tonic mitten in R.
+#' @description Ein simples Rezept für Gin Tonic mitten in R.
 #'
-#'@param
+#' @param
 #'
-#'@return Wie Du Gin Tonic machst.
+#' @return Wie Du Gin Tonic machst.
 #'
-#'@export
+#' @export
 #'
 #'
 
