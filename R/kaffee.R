@@ -16,6 +16,6 @@ kaffee <- function() {
   cat(paste0("\nKaffe gibt es sehr nah in der Institutsküche (Achtung wenn du eine Nachtschicht machst, dann vielleicht nicht).\n"))
   cat(paste0("\nDer ist okay. Richtig leckeren Kaffee gibt es zum beispiel beim Kaffeekästchen."))
   cat(paste0("\nDort gibt es auch heiße Schokolade, in süß und würzig.\n"))
-  cat(paste0("\nWichtig: Schmeckt besonders gut mit Block auf der Lahn oder vom Schloss über Marburg."))
+  cat(paste0("\nWichtig: Schmeckt besonders gut mit Blick auf die Lahn oder vom Schloss über Marburg."))
 
 }
