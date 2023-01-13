@@ -7,7 +7,7 @@ Description: This R-package acutally can not do much on its own. And it does not
     Maybe it can help you figure out what to do in the sometimes stressfull Ausbildung in Marburg. Tell you to keep in mind to also enjoy life while you are at it.
         So lets get started! \o/
         Right now there are 5 functions only :( Who knows if there will be more in the future.
-        These are the following:
+        They are the following:
         - aperol()
         - gintonic()
         - kaffee()
