@@ -7,7 +7,7 @@
 wassollichtun()
 }
 \value{
-Ist nur ein Vorschlag,
+Ist nur ein Vorschla, make up your own mind ;)
 }
 \description{
 Manchmal gibt es diese Zeiten am Tag, da muss man einfach R fragen...
