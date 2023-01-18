@@ -14,4 +14,5 @@ They are the following:
 - wassollichtun()
 
 So find out what it can do, e.g. by starting with "?aperol" or the second of Kants three iconic questions: wassollichtun()
+
 See you around :)
