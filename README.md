@@ -5,12 +5,13 @@ This R-package acutally can not do much on its own. And it does not have that ma
 Maybe it can help you figure out what to do in the sometimes stressfull Ausbildung in Marburg. Tell you to keep in mind to also enjoy life while you are at it.
        
 So lets get started! \o/
-Right now there are 6 functions only :( Who knows if there will be more in the future.
+Right now there are 7 functions only :( Who knows if there will be more in the future.
 They are the following:
 - aperol()
 - gintonic()
 - kaffee()
 - negroni()
+- sektsorbet()
 - wassollichtun()
 - helpRburg()
 
