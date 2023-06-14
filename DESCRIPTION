@@ -1,7 +1,7 @@
 Package: aperolRburg
 Type: Package
 Title: Can help you cope with life at PAM
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Joscha", "Franke", email = "joscha.franke@uni-marburg.de", role = c("cre","aut"))
 Description: This R-package acutally can not do much on its own. And it does not have that many functions. But...
     Maybe it can help you figure out what to do in the sometimes stressfull Ausbildung in Marburg. Tell you to keep in mind to also enjoy life while you are at it.
